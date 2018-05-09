@@ -1,0 +1,6 @@
+{
+  "targetWord" : "exotisms",
+  "goodGuesses" : [ "t", "o" ],
+  "badGuesses" : [ "a", "c", "d", "g" ],
+  "remainingGuesses" : 6
+}
